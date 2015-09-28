@@ -1,0 +1,42 @@
+body {
+	background-color: #e5e5e5;
+	margin: 0;
+}
+
+div#container {
+	width: 900px;
+	margin: auto;
+	background-color: #ffffff;
+	padding: 0 40px;
+	-webkit-box-shadow: 0px 0px 50px #bbbbbb;
+	box-shadow: 0px 0px 50px;
+	line-height: 1.5;
+}
+header#pageheader {
+	padding: 28px 0 0;
+}
+header#pageheader h1 {
+	float: left;
+	margin: 0;
+}
+header#pageheader p {
+	text-align: right;
+	padding-top: 0px;
+	margin: 0;
+}
+nav {
+	clear: both;
+}
+article {
+
+}
+article header {
+	border: solid 1px #aaaaaa;
+	margin: 20px 0;
+}
+div#topcomment {
+	text-align: center;
+}
+figcaption {
+	font-size: 15px;
+}
