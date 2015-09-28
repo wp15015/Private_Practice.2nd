@@ -27,12 +27,21 @@ header#pageheader p {
 nav {
 	clear: both;
 }
+nav ul {
+
+}
+li {float: left;
+	list-style-type: none;
+	margin: 5px;
+}
 article {
 
 }
 article header {
 	border: solid 1px #aaaaaa;
 	margin: 20px 0;
+	border-radius: 5px;
+	padding: 13px;
 }
 div#topcomment {
 	text-align: center;
