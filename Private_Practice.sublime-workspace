@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"jpg",
+				"sky.jpg	w:760 h:230"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pd",
+				"padding-top"
+			],
+			[
+				"magi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"list-",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"list",
+				"list-d	list-style-type: disc;"
+			],
+			[
+				"line",
+				"inline-table"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgroud-",
+				"background-color"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"color",
+				"outline-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1528,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 678,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gourmet spot.html",
+			"settings":
+			{
+				"buffer_size": 4054,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "yorimichi spot.html",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd"
+	],
+	"file_history":
+	[
+		"/C/Users/比嘉 将太/Documents/daily/furikaeri.md",
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/yorimichi spot.html",
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/Gourmet spot.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/index.html",
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/README.md",
+		"/C/Users/比嘉 将太/Documents/HTML5_CSS3/sample_c/video&audio.html",
+		"/C/Users/比嘉 将太/Documents/HTML5_CSS3/sample_c/index.html",
+		"/C/Users/比嘉 将太/Documents/HTML5_CSS3/sample_b/index.html",
+		"/C/Users/比嘉 将太/Documents/HTML5_CSS3/sample_a/index.html",
+		"/C/Users/比嘉 将太/Documents/HTML5_CSS3/readme.txt",
+		"/C/Users/比嘉 将太/Documents/html.basic/README.md",
+		"/C/Users/比嘉 将太/Desktop/test1.md",
+		"/C/Users/比嘉 将太/Documents/html.basic/style.css",
+		"/C/Users/比嘉 将太/Documents/html.basic/fruit.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/company.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/vegetable.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/contact.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/news.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/template.html",
+		"/C/Users/比嘉 将太/Documents/html.basic/.gitignore",
+		"/C/Users/比嘉 将太/Documents/html.basic/原稿/原稿_フルーツ.txt",
+		"/C/Users/比嘉 将太/Documents/html.basic/images/btn_info.gif",
+		"/C/Users/比嘉 将太/Documents/html.basic/原稿/原稿_ホーム.txt",
+		"/C/Users/比嘉 将太/Documents/html.basic/原稿/原稿_ベジタブル.txt",
+		"/C/Users/比嘉 将太/Documents/tutoriaru3/sample.md",
+		"/C/Users/比嘉 将太/Documents/tutoriaru/README.md",
+		"/C/Users/比嘉 将太/Documents/tutoriaru2/sample.md",
+		"/C/Users/比嘉 将太/Documents/tutoriaru/sample.md",
+		"/C/Users/比嘉 将太/Google ドライブ/test1.md",
+		"/C/Users/比嘉 将太/Desktop/otameshi.html",
+		"/C/Users/比嘉 将太/Documents/tutorial2/sample.md",
+		"/C/Users/比嘉 将太/Desktop/0903-1.html",
+		"/C/Users/比嘉 将太/Desktop/0902-1",
+		"/C/Users/比嘉 将太/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"itemprop",
+			"h1",
+			"<!--[if",
+			"<!--[if lt IE 9]>",
+			"align",
+			"circ",
+			"img",
+			"src",
+			"ce",
+			"footer",
+			"form",
+			"article",
+			"article header",
+			"body",
+			"h1",
+			"image",
+			"container",
+			"bar-darkblue",
+			"section",
+			"small",
+			"メイリイオ",
+			"if",
+			"hover",
+			"nav",
+			"0px",
+			"article",
+			"header",
+			"section",
+			"header",
+			"article",
+			"FFF",
+			"header",
+			"h2",
+			"header",
+			"article",
+			"figure",
+			"article",
+			"container",
+			"articleBody",
+			"container",
+			"article",
+			"article	",
+			"header",
+			"h2",
+			"h1",
+			"article",
+			"header",
+			"content",
+			"header",
+			"feed",
+			"sidebar",
+			"bread",
+			"sidemenu",
+			"bread",
+			"森の中に",
+			"div#",
+			"森の工房について",
+			"art",
+			"article",
+			"nav",
+			"men",
+			"menu",
+			"header",
+			"style",
+			"addre",
+			"address",
+			"backgrond"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gourmet spot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "yorimichi spot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Private_Practice.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 104.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

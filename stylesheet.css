@@ -10,7 +10,7 @@ div#container {
 	padding: 0 40px;
 	-webkit-box-shadow: 0px 0px 50px #bbbbbb;
 	box-shadow: 0px 0px 50px;
-	line-height: 1.5;
+	line-height: 1.8;
 }
 header#pageheader {
 	padding: 28px 0 0;
@@ -28,11 +28,37 @@ nav {
 	clear: both;
 }
 nav ul {
-
+//	height: 40px;
+	background: -webkit-linear-gradient(#f5deb3 0%, #d2b48c 50%, #d2b48c 51%,
+		#deb887 100%);
+	border-radius: 5px;
+	padding: 0px;
+	overflow: hidden;
 }
-li {float: left;
+nav ul li {float: left;
 	list-style-type: none;
-	margin: 5px;
+	margin: 8px;
+	font-size: 18px;
+	border-right: 1px solid #bdb76b;
+	margin: 0;
+}
+nav ul li a	{display: block;
+//	width: 120px;
+	padding: 10px;
+	text-decoration: none;
+	text-align: center;
+	border-right: solid 1px rgba(225,225,225,0.2);
+}
+nav ul li a:link {
+//	color: #333333;
+}
+nav ul li a:hover {
+	background-color: rgba(1,122,205,0.3);
+}
+/*トップページ写真へのリンク*/
+.box-sizing a:hover {
+//	background-color: rgba(1,122,205,0.3);
+ opacity: 0.7;
 }
 article {
 
@@ -43,9 +69,44 @@ article header {
 	border-radius: 5px;
 	padding: 13px;
 }
-div#topcomment {
-	text-align: center;
+article section h1 {
+	margin-top: 0;
+	border-left: solid 15px #7cfc00;
 }
 figcaption {
 	font-size: 15px;
+	line-height: 1.2;
+}
+/*トップページの文章*/
+div#topcomment {
+	text-align: center;
+	padding: 20px 0;
+	color: #dc143c;
+}
+/*トップページの背景画像*/
+#topcomment {
+	background-image: url(src/top/topimg_hedear.jpg);
+}
+/*セクションタイトルふりがな*/
+#hurigana{
+	line-height: 1;
+	margin: 30px 0 0 15px;
+	font-size: 14px;
+}
+/*セクション画像に対してフロート*/
+.itemphot {
+//	float: left;
+	margin-right: 20px;
+}
+/*フロートの解除*/
+#clear {
+	clear: both;
+}
+/*トップページ初めの画像に対してフロート*/
+.top_img_first {
+	float: left;
+}
+/*トップページの画像にbox-sizingを適用する*/
+.box-sizing {
+	display: -webkit-box;
 }
