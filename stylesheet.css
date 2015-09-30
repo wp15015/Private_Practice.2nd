@@ -55,13 +55,16 @@ nav ul li a:link {
 nav ul li a:hover {
 	background-color: rgba(1,122,205,0.3);
 }
-/*トップページ写真へのリンク*/
-.box-sizing a:hover {
-//	background-color: rgba(1,122,205,0.3);
- opacity: 0.7;
+/*トップページ写真へのリンクに対して*/
+.alpha a {
+	text-decoration: none;
 }
-article {
-
+.alpha a:hover img {
+	opacity: 0.7;
+}
+.alpha figcaption {
+	display: block;
+	font-size: 20px;
 }
 article header {
 	border: solid 1px #aaaaaa;
@@ -77,11 +80,30 @@ figcaption {
 	font-size: 15px;
 	line-height: 1.2;
 }
+/*フッター*/
+footer {
+	border-top: solid 1px #aaaaaa;
+}
 /*トップページの文章*/
 div#topcomment {
 	text-align: center;
 	padding: 20px 0;
 	color: #dc143c;
+}
+div#topcomment a {
+	text-decoration: none;
+	color: #dc143c;
+}
+div#topcomment a:hover {
+	cursor: text;
+}
+/*トップページの文章*/
+article header p a {
+	text-decoration: none;
+	color: #000000;
+}
+article header p a:hover {
+	cursor: text;
 }
 /*トップページの背景画像*/
 #topcomment {
