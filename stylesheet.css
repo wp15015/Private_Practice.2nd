@@ -117,7 +117,7 @@ article header p a:hover {
 }
 /*セクション画像に対してフロート*/
 .itemphot {
-//	float: left;
+	float: left;
 	margin-right: 20px;
 }
 /*フロートの解除*/
