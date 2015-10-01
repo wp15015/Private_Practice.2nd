@@ -121,7 +121,7 @@ article header p a:hover {
 	margin-right: 20px;
 }
 /*フロートの解除*/
-.clear {
+div.clear {
 	clear: both;
 }
 /*トップページ初めの画像に対してフロート*/
@@ -136,16 +136,11 @@ article header p a:hover {
 div #sandan {
 	display: -webkit-box;
 	}
-article section {width: 288px;
-	margin-right: 18px;
-	box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	overflow: visible;}
 
 article section h1 {height: 48px;
 //	line-height: 1.2;}
 
-.itemphot_2
-	{flot:none;
-		margin: 0;}
+.itemphot_2{
+	flot:none;
+	margin: 0;
+}
