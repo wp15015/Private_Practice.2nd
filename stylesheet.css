@@ -149,7 +149,3 @@ article section h1 {height: 48px;
 .itemphot_2
 	{flot:none;
 		margin: 0;}
-
-article section:nth-of-type(1n) figcaption
-	{text-align: center;
-	margin-bottom: 15ps;}
