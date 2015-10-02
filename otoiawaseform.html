@@ -2,17 +2,17 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>グルメスポット</title>
+	<title>お問い合わせ</title>
+	<meta name="viewport" content="width=device.width">
 	<link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
 	<div id="container">
 <!--ヘッダここから-->
-		<header>
+		<header id="pageheader">
 			<h1>北中城Porte</h1>
 			<p>
-			歴史にカフェ、手みやげまで。<br>
-			のどかな村のとっておき
+			歴史にカフェ、手みやげまで　のどかな村のとっておき
 			</p>
 			<nav>
 				<ul>
@@ -26,8 +26,29 @@
 		</header>
 <!--メインここから-->
 		<article>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/F0C7vLwW9Kk?rel=0" allowfullscreen></iframe>
-		</article>
+			<header>
+				<h1>お問い合わせ</h1>
+				<p>ご意見、ご感想などがありましたら、以下の欄にご記入の上、送信してください。また、森の工房やイベントに関するご質問などもお気軽にお寄せください。</p>
+			</header>
+
+			<form action="https://www.rescuesolutions.net/form/mail.cgi" method="POST">
+
+			<p><label>
+				名前：<br>
+				<input type="text" name="name" size="40" required>
+			</label></p>
+			<p>
+				メールアドレス：<br>
+				<input type="text" name="mail" size="40">
+			</p>
+			<p><label>
+				コメント：<br>
+				<textarea name="comment" cols="50" rows="10"></textarea>
+			</label></p>
+
+			<p id="button">
+				<input type="submit" value="送信">
+			</p>
 <!--フッターここから-->
 		<footer>
 			<small>2014年4月からの消費税8％への税率変更に伴い、価格の税込・税抜き表記が混同している箇所もございます。予め、ご了承下さいますよう宜しくお願い申し上げます。</small>
