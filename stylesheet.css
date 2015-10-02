@@ -128,19 +128,3 @@ div.clear {
 .top_img_first {
 	float: left;
 }
-/*トップページの画像にbox-sizingを適用する*/
-.box-sizing {
-	display: -webkit-box;
-}
-/* ３段組 */
-div #sandan {
-	display: -webkit-box;
-	}
-
-article section h1 {height: 48px;
-//	line-height: 1.2;}
-
-.itemphot_2{
-	flot:none;
-	margin: 0;
-}

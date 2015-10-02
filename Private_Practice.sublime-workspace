@@ -151,7 +151,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1646,
+				"buffer_size": 1613,
 				"line_ending": "Windows"
 			}
 		},
@@ -159,7 +159,7 @@
 			"file": "Bread_and_sweets.html",
 			"settings":
 			{
-				"buffer_size": 1792,
+				"buffer_size": 1801,
 				"line_ending": "Windows"
 			}
 		},
@@ -175,29 +175,23 @@
 			"file": "momoe-yamaguchi.html",
 			"settings":
 			{
-				"buffer_size": 866,
+				"buffer_size": 850,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"UTF-8\">\n	<title>グルメスポット</title>\n	<link rel=\"stylesheet\" href=\"stylesheet.css\">\n</head>\n<body>\n	<div id=\"container\">\n<!--ヘッダここから-->\n		<header id=\"pageheader\">\n			<h1>北中城Porte</h1>\n			<p>\n			歴史にカフェ、手みやげまで　のどかな村のとっておき\n			</p>\n			<nav>\n				<ul>\n					<li><a href=\"index.html\">ホーム</a></li>\n					<li><a href=\"Gourmet_spot.html\">グルメスポット</a></li>\n					<li><a href=\"Bread_and_sweets.html\">パン＆スイーツ</a></li>\n					<li><a href=\"yorimichi_spot.html\">寄り道スポット</a></li>\n				</ul>\n			</nav>\n		</header>\n<!--メインここから-->\n		<article>\n<!--			<img src=\"src/gourmet/gourmetspot_top.jpg\" height=\"600\" width=\"900\" alt=\"\">-->\n			<header>\n				<h1>北中城村グルメスポット</h1>\n				<p><a href=\"momoe-yamaguchi.html\">\n					自然と歴史が育んだ癒しの村・北中城は、言わずともしれたこだわりグルメスポットの宝庫。\n					古き良きアメリカが香るレストランや、特産品が味わえる昔ながらのお食事処、ビンテージ感\n					漂う外人住宅街のカフェもまた個性派揃い。技が光る珈琲屋さんの数々から、お気に入りを\n					見つけるもよし。お土産にぴったりなパティスリーやベーカリーまで、一度訪れたらきっと何\n					度も来たくなるお店、新旧色とりどりにご紹介。\n				</a></p>\n			</header>\n\n			<section>\n				<p id=\"hurigana\">\n					ブラウマンズランチベーカリー\n				</p>\n				<h1>PLUGHMAN'S LUNCH BAKERY</h1>\n				<img src=\"src/gourmet/ploughman's_1.jpeg\" height=\"270\" width=\"360\" alt=\"プラウマンズ_1\" class=\"itemphot\">\n				<p>\n					　食材の良さを大切にし、丁寧に時間をかけて発酵させた自家製パンは、噛めば噛むほど素材の味が口の中に広がるおいしさ。\n					「すべててパンありきで考えたメニュー」というパンへの愛が伝わる人気のランチプレートは、色とりどりの旬野菜がたっぷり入っていて思わず笑顔になれます。もちっとして弾力があり、それでいて軽い食感の自家製パンがおかわり自由というのもうれしいポイント。\n				</p>\n\n				<div id=\"clear\"></div>\n\n				<figure><img src=\"src/gourmet/ploughman's_2.jpg\" height=\"440\" width=\"440\" alt=\"プラウマンズ_2\">\n				<figcaption>常時１０種類程度揃うパンはテイクアウト販売も行っています</figcaption>\n				</figure>\n\n				<figure><img src=\"src/gourmet/ploughman's_3.jpg\" height=\"440\" width=\"320\" alt=\"プラウマンズ_3\">\n				<figcaption>木漏れ日溢れる緑の丘にある開放感ある店内。<br>\n				ゆったりのんびりした時間を過ごすことができます</figcaption>\n				</figure>\n				<div class=\"information\">\n					<p>\n						TEL／098-979-9097<br>\n						住／北中城村安谷屋927-2 ＃1735<br>\n						営／8：00～16：00（売り切れ次第終了）<br>\n						朝食8：00～11：00 ランチ10：00～15：00<br>\n						休／水曜<br>\n						P／あり\n					</p>\n				</div>\n			</section>\n			<section>\n				<p id=\"hurigana\">\n					クルミシャ\n				</p>\n				<h1>クルミ舎</h1>\n				<img src=\"src/gourmet/kurumisha_1.jpg\" height=\"238\" width=\"360\" alt=\"くるみ舎_1\" class=\"itemphot\">\n				<p>\n					　ゆったりとテーブルを配した温かみのあるインテリアの向こうには、緑のお庭。2014年10月にまたひとつ、すてきカフェが誕生しました。\n					メニューは絶妙な辛さにクリーミーなコクがたまらない『バターチキンカレー　850円』をはじめ、３種のカレー、その時々で並ぶお菓子やドリンクなど。「どれも手づくりなので、メニューは多くはないんです」とはにかむオーナーの知念さんですが、丁寧な仕事ぶりが伺える、カラダが喜ぶ味わいです。\n				</p>\n\n				<div id=\"clear\"></div>\n\n				<figure></figure><img src=\"src/gourmet/kurumisha_2.jpg\" height=\"200\" width=\"320\" alt=\"クルミ舎_2\">\n				<figcaption>「カレーやスイーツなどはテイクアウトもおすすめ<br>\n				ですよ」と、オーナーの知念さん</figcaption>\n				</section>\n\n				<figure><img src=\"src/gourmet/kurumisha_3.jpg\" height=\"150\" width=\"200\" alt=\"クルミ舎_3\">\n				</figure>\n\n				<figure><img src=\"src/gourmet/kurumisha_4.jpg\" height=\"300\" width=\"400\" alt=\"クルミ舎_4\">\n				<figcaption>お天気のいい日には遠くに海も見えるお庭はひろびろ。<br>\n				子どもと一緒に過ごすにも最適</figcaption>\n				</figure>\n\n				<div class=\"information\">\n					<p>\n						TEL／098-935-5400\n						住／北中城村渡口1871-1　20号<br>\n						営／11：00～16：00（売切れ次第終了）<br>\n						休／日曜・祝祭日<br>\n						P／あり\n					</p>\n				</div>\n			</section>\n			<section>\n				<p id=\"hurigana\">\n					ザ・ローズガーデン\n				</p>\n					<h1>The Rose Garden</h1>\n				<img src=\"src/gourmet/rosegarden_1.jpg\" height=\"270\" width=\"360\" alt=\"ローズガーデン_1\" class=\"itemphot\">\n				<p>\n					　「卵はサニーサンドアップ、ベーコンはクリスピーで。パンケーキもいいけど、今日の気分はフレンチトーストかな？」\n					１６年続くこの店のブレックファストメニューの数々は、アメリカ人オーナー自慢の本格アメリカン。\n					田舎町のレストランを思わせるレトロな店内は、時間帯を問わず、懐かしのソウルフードを求めて訪れる外国人で賑わっています。\n					長年親しまれてきたメニューは、地元の人にとっても、どこか懐かしく無性に食べたくなる「あの味」です。\n				</p>\n\n				<div id=\"clear\"></div>\n\n				<figure><img src=\"src/gourmet/rosegarden_2.jpg\" height=\"194\" width=\"259\" alt=\"ローズガーデン_2\"></figure>\n\n				<figure><img src=\"src/gourmet/rosegarden_3.jpg\" height=\"194\" width=\"259\" alt=\"ローズガーデン_3\">\n				<figcaption>スフレとベイクドの触感が楽しめる『スプリ<br>\n				ームチーズケーキ　420円』はコーヒーと一緒に</figcaption>\n				</figure>\n\n				<figure><img src=\"src/gourmet/rosegarden_4.jpg\" height=\"192\" width=\"256\" alt=\"ローズガーデン_4\">\n				<figcaption>カントリー調のアメリカンな空間でゆった<br>\n				りできます</figcaption>\n				</figure>\n				<p>\n					TEL／098-932-2800<br>\n					営／8：00～23：45（LO23:00）<br>\n					休／無休<br>\n					P／あり\n\n				</p>\n			</section>\n		</article>\n<!--フッターここから-->\n		<footer>\n			<small>2014年4月からの消費税8％への税率変更に伴い、価格の税込・税抜き表記が混同している箇所もございます。予め、ご了承下さいますよう宜しくお願い申し上げます。</small>\n		</footer>\n	</div>\n\n\n</body>\n</html>",
-			"file": "Gourmet spot.html",
-			"file_size": 7146,
-			"file_write_time": 130881373668235610,
+			"file": "Gourmet_spot.html",
 			"settings":
 			{
-				"buffer_size": 4321,
+				"buffer_size": 4325,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"UTF-8\">\n	<title>寄り道スポット</title>\n	<link rel=\"stylesheet\" href=\"stylesheet.css\">\n</head>\n<body>\n	<div id=\"container\">\n<!--ヘッダここから-->\n		<header id=\"pageheader\">\n			<h1>北中城Porte</h1>\n			<p>\n			歴史にカフェ、手みやげまで　のどかな村のとっておき\n			</p>\n			<nav>\n				<ul>\n					<li><a href=\"index.html\">ホーム</a></li>\n					<li><a href=\"Gourmet_spot.html\">グルメスポット</a></li>\n					<li><a href=\"Bread_and_sweets.html\">パン＆スイーツ</a></li>\n					<li><a href=\"yorimichi_spot.html\">寄り道スポット</a></li>\n				</ul>\n			</nav>\n		</header>\n<!--メインここから-->\n		<article>\n			<header>\n				<h1>北中城村、寄り道スポット</h1>\n				<p>世界遺産のグスクを歴史散歩先人達の知恵と情熱を感じて</p>\n			</header>\n				<section>\n				<p id=\"hurigana\">\n					ナカグスクジョウアト\n				</p>\n					<h1>中城城跡</h1>\n						<img src=\"src/yorimichi spot/shiroato_1.jpg\" height=\"270\" width=\"360\" alt=\"城跡_1\" class=\"itemphot\">\n						<p>\n							2000年12月に世界遺産に登録された中城城跡。\n							4300坪の広い敷地にそびえる城（グスク）の保存状態は世界遺産の５つのグスクの中で最も良いと言われています。\n							一分の隙もなくきっちりと積まれた城壁から首里、勝連、久高島など琉球王国時代の要所が望めるなど軍事的な\n							性能も高く、首里城に次ぐ重要なグスクだったと考えられています。\n							歴史ガイドの方のお話を伺いながらグスクを散策すると、護佐丸や阿麻和利、尚泰久王など歴史上の人物たちが\n							身近に感じられる気分がします。\n						</p>\n\n						<div id=\"clear\"></div>\n\n						<figure><img src=\"src/yorimichi spot/shiroato_2.jpg\" height=\"300\" width=\"400\" alt=\"城跡_2\">\n						<figcaption>見晴らしの良い二の郭。<br>\n						ここから沖縄本島の３／１が見えるそうです</figcaption>\n						</figure>\n\n						<figure><img src=\"src/yorimichi spot/shiroato_3.jpg\" height=\"360\" width=\"540\" alt=\"城跡_3\"></figure>\n						<p>\n							TEL／098-935-5719<br>\n							住／北中城村字大城503<br>\n							営／8：30～17：00<br>\n							　　（6～9月の間は18：00まで）<br>\n							料／大人400円、中・高生300円、<br>\n							　　小学生200円<br>\n							休／年中無休<br>\n							P／あり\n						</p>\n				</section>\n		</article>\n<!--フッターここから-->\n		<footer>\n			<small>2014年4月からの消費税8％への税率変更に伴い、価格の税込・税抜き表記が混同している箇所もございます。予め、ご了承下さいますよう宜しくお願い申し上げます。</small>\n		</footer>\n	</div>\n\n\n</body>\n</html>",
-			"file": "yorimichi spot.html",
-			"file_size": 2937,
-			"file_write_time": 130881373859036946,
+			"file": "yorimichi_spot.html",
 			"settings":
 			{
-				"buffer_size": 1844,
+				"buffer_size": 1850,
 				"line_ending": "Windows"
 			}
 		},
@@ -205,7 +199,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 2428,
+				"buffer_size": 2270,
 				"line_ending": "Windows"
 			}
 		}
@@ -263,11 +257,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/yorimichi spot.html",
+		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/Gourmet spot.html",
 		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/Bread&sweets.html",
 		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/stylesheet_2.css",
 		"/C/Users/比嘉 将太/Documents/daily/furikaeri.md",
-		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/yorimichi spot.html",
-		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/Gourmet spot.html",
 		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/index.html",
 		"/C/Users/比嘉 将太/Documents/Private_Practice.2nd/stylesheet.css",
 		"/C/Users/比嘉 将太/Documents/html.basic/index.html",
@@ -318,6 +312,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"itemphot",
+			"clear",
+			"hurigana",
+			"id=\"hurigana\"",
+			"figcaption",
+			"clear",
+			"id=\"clear\"",
 			"topcomment",
 			"top_img_first",
 			"itemprop",
@@ -394,6 +395,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"class=\"hurigana\"",
+			"class=\"clear\""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -404,7 +407,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -413,15 +416,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1646,
+						"buffer_size": 1613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1646,
-								1646
+								1421,
+								1431
 							]
 						],
 						"settings":
@@ -493,7 +496,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -502,15 +505,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1792,
+						"buffer_size": 1801,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								462,
-								462
+								1609,
+								1619
 							]
 						],
 						"settings":
@@ -579,7 +582,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 669.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
@@ -680,15 +683,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 866,
+						"buffer_size": 850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								470,
-								470
+								650,
+								650
 							]
 						],
 						"settings":
@@ -757,116 +760,116 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Gourmet spot.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4321,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								470,
-								470
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "yorimichi spot.html",
+					"buffer": 4,
+					"file": "Gourmet_spot.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1844,
+						"buffer_size": 4325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								470,
-								470
+								2935,
+								2935
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "yorimichi_spot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
 							]
 						],
 						"settings":
@@ -947,15 +950,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2428,
+						"buffer_size": 2270,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2428,
-								2428
+								2174,
+								2174
 							]
 						],
 						"settings":
@@ -1024,10 +1027,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 45.0,
+						"translation.y": 1825.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1072,7 +1075,7 @@
 	"project": "Private_Practice.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":

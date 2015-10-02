@@ -1,0 +1,22 @@
+/*=====pc用の設定=====*/
+@media only screen and (min-width: 900px){
+
+	/* ３段組 */
+	div #sandan {
+		display: -webkit-box;
+		}
+	article section {
+		width: 288px;
+		margin-right: 18px;
+		box-sizing: border-box;
+	}
+
+	article section h1 {height: 48px;
+	//	line-height: 1.2;}
+
+	.itemphot_2{
+		flot:none;
+		margin: 0;
+	}
+
+}
