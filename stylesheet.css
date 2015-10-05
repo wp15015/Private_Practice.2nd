@@ -56,6 +56,9 @@ nav ul li a:hover {
 	background-color: rgba(1,122,205,0.3);
 }
 /*トップページ写真へのリンクに対して*/
+figure {
+	margin: 15px 5px 15px 5px;
+}
 .alpha a {
 	text-decoration: none;
 }
@@ -64,8 +67,13 @@ nav ul li a:hover {
 }
 .alpha figcaption {
 	display: block;
-	font-size: 20px;
+	font-size: 18px;
+	line-height: 1.2;
 }
+
+
+
+
 article header {
 	border: solid 1px #aaaaaa;
 	margin: 20px 0;
@@ -76,10 +84,7 @@ article section h1 {
 	margin-top: 0;
 	border-left: solid 15px #7cfc00;
 }
-figcaption {
-	font-size: 15px;
-	line-height: 1.2;
-}
+
 /*フッター*/
 footer {
 	border-top: solid 1px #aaaaaa;
@@ -127,4 +132,11 @@ div.clear {
 /*トップページ初めの画像に対してフロート*/
 .top_img_first {
 	float: left;
+}
+/*お問い合わせフォームに対して*/
+input:required {
+//	background-color: #ff7d66;
+}
+input:valid {
+	background-color: #ffffff;
 }

@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title>お問い合わせ</title>
-	<meta name="viewport" content="width=device.width">
 	<link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
@@ -34,16 +33,19 @@
 			<form action="https://www.rescuesolutions.net/form/mail.cgi" method="POST">
 
 			<p><label>
-				名前：<br>
-				<input type="text" name="name" size="40" required>
+				名前：<span>（必須）</span><br>
+				<input type="text" name="name" size="40" required
+				placeholder="名前を入力してください" autofocus>
 			</label></p>
 			<p>
-				メールアドレス：<br>
-				<input type="text" name="mail" size="40">
+				メールアドレス：<span>（必須）</span><br>
+				<input type="text" name="mail" size="40" required
+				placeholder="メールアドレスを入力してください">
 			</p>
 			<p><label>
 				コメント：<br>
-				<textarea name="comment" cols="50" rows="10"></textarea>
+				<textarea name="comment" cols="50" rows="10"
+				placeholder="コメントなどを入力してください"></textarea>
 			</label></p>
 
 			<p id="button">
